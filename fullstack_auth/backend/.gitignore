@@ -1,0 +1,3 @@
+node_modules/
+DB_PASSWORD.secret
+/bin/configuredb.sh

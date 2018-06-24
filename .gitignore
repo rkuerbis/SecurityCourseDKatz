@@ -1,0 +1,7 @@
+*node_modules*
+*dist*
+*.cache*
+*security_examples*
+*authentication*
+*secrets*
+*.txt*
